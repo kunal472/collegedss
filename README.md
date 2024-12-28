@@ -83,8 +83,3 @@ The College Management System is a MERN Stack-based system with three different 
    npm start
    ```
 
-## For Any Doubt Feel Free To Contact Me 🚀
-
-- [My Website](http://krishjotaniya.netlify.app/)
-- [Linkedin](https://www.linkedin.com/in/krishjotaniya/)
-- [krishjotaniya71@gmail.com](mailto:krishjotaniya71@gmail.com)
